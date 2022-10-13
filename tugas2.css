@@ -1,0 +1,27 @@
+body {
+    background: url("2.jpg");
+    
+}
+
+.foto{
+    background-color: rgb(86, 40, 40);
+   width: 500px;
+}
+
+img{
+    background-color: rgb(104, 92, 104) ;
+    border-radius: 100px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.menu{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+.mawar{
+    text-align: center;
+    font-family : monotype corsiva ;
+
+}
